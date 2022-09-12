@@ -6,3 +6,6 @@
 ### Além disso, juntar o dinheiro guardado setando metas pessoais futuras.
 
 ### Exemplo de metas: Reserva de emergência > Guardar 6 meses de gastos mensais. 
+
+# Banco de Dados
+<img src="./src/assets/databaseSchema.PNG" alt="Database Schema" title="Banco de Dados">
